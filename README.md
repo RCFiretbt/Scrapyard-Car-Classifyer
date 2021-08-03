@@ -12,3 +12,6 @@ or terminal!
 
 %cd /content/Scrapyard-Car-Classifyer  
 !python track.py --yolo_weights yolov5/weights/best.pt --source test.mp4 --save-vid  
+
+The code which makes this all work is the file track.py which can be found  
+in the main folder
