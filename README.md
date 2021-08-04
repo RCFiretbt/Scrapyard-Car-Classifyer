@@ -6,7 +6,7 @@ display my name and the numer of recorded cars.
 Run the code put these lines of code into your google colab notebook  
 or terminal!
 
-!git clone  https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git    
+!git clone  https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch.git      
 %cd /content/Yolov5_DeepSort_Pytorch  
 !pip install -r requirements.txt  
 !git clone https://github.com/RCFiretbt/Scrapyard-Car-Classifyer.git    
